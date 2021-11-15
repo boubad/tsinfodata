@@ -3,5 +3,17 @@
   "cSpell.enabled": true,
   "editor.formatOnSave": true,
   "typescript.tsdk": "node_modules/typescript/lib",
-  "typescript.enablePromptUseWorkspaceTsdk": true
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "attname",
+    "dataoptions",
+    "docid",
+    "etype",
+    "linkfield",
+    "ownerid",
+    "reptype",
+    "revpos",
+    "storeable",
+    "tsinfodata"
+  ]
 }
